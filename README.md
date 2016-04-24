@@ -1,7 +1,7 @@
 # alexa-on-mars
 Amazon's Alexa for Mars expeditioners
 
-#BeAnAstronaut #Rock-ITDesign
+\#BeAnAstronaut #Rock-ITDesign
 
 A solution for ROCK-IT SPACE FASHION AND DESIGN for the SpaceApps2016 Hackathon
 
